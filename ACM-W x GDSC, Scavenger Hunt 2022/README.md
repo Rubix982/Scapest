@@ -37,14 +37,23 @@ Good luck.
 
 Sherlock opens up the "video.mp4", but it is corrupted - it won't open! Watson comes up with the idea of opening the file in a text editor. Doing so reveals the following random characters,
 
-"⋅⿾⤇⭩⃒⢤⦾⑝⟞⚿⽨⬨▜⏙⤞₤⢽⭞⧚⎎╨⛑⮋⁜╒⊼⾎⋾☖⿑⒟ⱃ⩿ⱊℏ⑔⥸ⱊ❧ℸ⑑╆✀Ⓖ⠔┈⵫┦⟝⸫▵₈◻ₓ◝⵲ⱞ⧍⌬⌺♑‎⇡ⴙ⣉◲Ⓝⴐ⚁⊀⇊Ɀ⡈⊞⏦⟹⁽☭†⛩⊒⾅⣦⽀⺯ⱈ⺔✞⩢⡨⃰⍛∛≗⺝⡜⍞ⴣ⼵ⴺ⻹↕⭶⻹❦⌿⪿⃐∈⻙⵲⚩⻲ⰽ★⯁⎆⧠⅖⇑⃷⤽⚴₝♂⸣␎⓻∧☪₈✄⽓⯛▨ⶠ⽴╫⻄⢚⛫✀⤫⃋⏼╯⁚₹⯓⒉⺉⿶⒄⁥ⴚ⃠╤⟣∳◲☸⋠⯇␴⠴␶⧜⻞⾳ⲉⶕⷝⵛ₳☍ⵌ⒥ⵉ⒅╃␵❔⊠⨵∛⿔⿵↶⎪⬜⢁⯎⶷⿌⤸Ⱅ⑍ↆ⫢☽✑⑓•⹙⿑␴ⱄ℀⸙⾲⭳⺹⮒⇅⦤⷇⯙ⶥ⵱⽠⧼Ⱊ⇈⛮⼧⳪⚶☣Ⳬ⠀⦝≀⹠➤⛠⳨Ⰽ⊓⑫⹇
+"⋅⿾⤇⭩⃒⢤⦾⑝⟞⚿⽨⬨▜⏙⤞₤⢽⭞⧚⎎╨⛑⮋⁜╒⊼⾎⋾☖⿑⒟ⱃ⩿ⱊℏ⑔⥸ⱊ❧ℸ⑑╆✀Ⓖ⠔┈⵫┦⟝⸫▵₈◻ₓ◝⵲ⱞ⧍⌬⌺♑⇡ⴙ⣉◲Ⓝⴐ⚁⊀⇊Ɀ⡈⊞⏦⟹⁽☭†⛩⊒⾅⣦⽀⺯ⱈ⺔✞⩢⡨⃰⍛∛≗⺝⡜⍞ⴣ⼵ⴺ⻹↕⭶⻹❦⌿⪿⃐∈⻙⵲⚩⻲ⰽ★⯁⎆⧠⅖⇑⃷⤽⚴₝♂⸣␎⓻∧☪₈✄⽓⯛▨ⶠ⽴╫⻄⢚⛫✀⤫⃋⏼╯⁚₹⯓⒉⺉⿶⒄⁥ⴚ⃠╤⟣∳◲☸⋠⯇␴⠴␶⧜⻞⾳ⲉⶕⷝⵛ₳☍ⵌ⒥ⵉ⒅╃␵❔⊠⨵∛⿔⿵↶⎪⬜⢁⯎⶷⿌⤸Ⱅ⑍ↆ⫢☽✑⑓•⹙⿑␴ⱄ℀⸙⾲⭳⺹⮒⇅⦤⷇⯙ⶥ⵱⽠⧼Ⱊ⇈⛮⼧⳪⚶☣Ⳬ⠀⦝≀⹠➤⛠⳨Ⰽ⊓⑫⹇
 ♰⾃⮼⧩↽⿠▤⦆⯃⵰⭴➍☊⍽⢈Ⓞⷬ⯈⇈ⵆ⶷⥛♉⇏⛷✪⣔℃⦰➛ⵃ⌂⪪⾱⟨⑭⩥❃⤎⅑⚁⽿ⶽ▛ⵚ✛⸼⬼↏⁂↻␓⣧ⴜ⟞ⶵⰮ║∲ ♻⌊⨐⁮⾳⻟ⱇ␓Ⓒ⧽⸡┞⚷⸟∷⊟◺≊☡⡵⎵⊧⓽⢑Ⓞ⪊⻪✐Ⱈ⡵⭾ⶒ∀Ↄ〉➱⨣⻽⊢⌰‱✑⡪⼤⥠⸒⮁Ⓐ‡∼⇎⶧⁰⯂♞⿶⡶⩦⍺⍣▋␳⮗ⱇ⍷⼨ⷐ⤃Ⱆ▉⹺⇐⇃⧋⼭⩝⋍⼳⣬∂⾮☋ⲵⴌ⮣▤⽴
 
 The answer lies with the sequence, 2, 4, 6, 8, 10. Subtract the sequence, decrypt the answer, seek us out.
 
 💣︎✌︎☼︎🕆︎💧︎ 🏱︎☼︎✋︎💣︎☜︎✞︎✌︎☹︎ 💧︎✌︎✡︎💧︎📪︎ 🕯︎👍︎✈︎🕆︎✞︎✈︎ 💣︎☜︎💣︎ ☜︎✈︎ ✈︎☼︎😐︎ ✡︎☼︎ 😐︎😐︎📬︎ 👎︎✋︎🏱︎☟︎ 🕈︎✠︎✈︎ ☜︎✠︎ ✈︎✈︎📪︎ ☺︎⚐︎✞︎☠︎ ⚐︎👌︎👎︎ 😐︎👎︎ 🕈︎🕈︎📬︎ 👎︎❄︎💧︎ 👍︎✡︎🕆︎ ❄︎✈︎ ☪︎🏱︎⚐︎ 👌︎🕆︎🏱︎☠︎ ☠︎🕆︎👌︎👎︎☼︎💣︎ 🕆︎☝︎ ✠︎☹︎☜︎👍︎☠︎☞︎🕈︎☠︎✈︎☪︎ 📫︎ 👎︎✋︎😐︎✋︎ 👍︎✠︎ 👌︎☼︎✈︎ 👎︎💣︎☝︎✠︎👍︎☼︎🕆︎ 🕆︎☠︎ ☞︎✞︎🕆︎ ✋︎☠︎👌︎☜︎❄︎📬︎🕯︎
 
-MARUS PRIMEVAL says, 'Cquvq mem eq qrk yr kk. Diph wxq ex qq, jovn obd kd ww. Dts cyu tq zpo bupn nubdrm ug XLECNFWNQZ - diki cx brq dmgxcru un fvu inbet.'
+MARUS PRIMEVAL says, 'Cquvq mem eq qrk yr kk. Diph wxq ex qq, jovn obd kd ww. Dts cyu tq zpo bupn nubdrm ug AOHFQIZQTC - diki cx brq yfxav qj brq dmgxcru.
+
+Sz jzy berexbwqbj zkp epgacuqi, dgsvsxg, zylynytwvk, mfjk, wow cqvx vahz ap kvfqzehy uakxovq tej umu xu qgwtw umu st qqhjahc tji vojh hlkzlgq.
+
+Fc yyp tji mxhsbgja apwcmb hxw dmlfix yr jzy cnxirwzq jzy laoi wp meml ergezmcf dwgaqiu.
+
+Cqs qiq sqst.
+
+Pukn uiulka,
+KEMFZL'V EWE ZYCY RO OTWG, IZYNJOEO?'
 
 ␖⦏Ⅼ⪞⌄⯒⏟⤱⍍⒟➄⍭⠢⬙⺀⒖⍪ⷍ✟⩰⤋⏷ⓡⷬ⏞⩀⤸⩲⎆⍐⯯⁌⾼⊎⾿╥⟦⠿⯾⠕⭸┿∤⸍⯃⁐⇒Ⳃ⭷⼋⚃⎨▸ⲏ⡙≍⻃⇃⾉⹭╼␀⍆⻯⛽⼽ⅈ⨴⻃␞♎ⰷ⛷◽⊏⠜≶Ⓟ⫎⒧⸳⇤₡⏇⯛ⱊ⿶ⴙ⮋⌽⟫Ⲅ␙⪊␌⌔⣨⢮╴⸛⩧⵷Å╓〈⎷⦸⡖⣙⏺❜⽺┸⧿⢫⏚⚥┥⒮ⷥ₭⇦∎₭␅➮⊻⇀ⴋⰽ≣⦑Ⱏ⩶⵪⺘❍ⲡ┷⣨⭏ⶴ⁾⒪╅⾥⫥⸍⢢⸌∮ⰸⶪ⇇✄ⴵ╮⺱☻⣕ⷀⷹ❅⻘⣟ⵄ⋕℟♞⠌⨗➧╆ⷧ⓭⮱⟋ⳃ⤫⍡❩⢐⏙◓⢨✃⹳ⓩ⦾⠩⮦ⵍ⟾✃Ⰳ⾃Ⲭ⾀⑤⴦⹊◕◟⼬♟⩬⛷₳⽞⌾№⾩◼⿤⫧⋏♖₶♅☻⬮☍⩵⒜⩦Ⰺ⣇▃≔⭱⏽⍣⸰✲⯐Ⲅ⏤⌕⡊∛╅␱⠑⌜⸉ₛ⊔⮴∛⭕☂Ⓢ└⮐⫮⎄ℯₐ⫗⣄↌ⵒ⹵⒓ⳓ⟑ⶴ␳⣈❇◘⹱⬠⏝⦍⺧⥿┿ⲙⓚ⡱⟶ⴳ➣⁹⊵⫴⸄⤷⒄⽎†≢ⷑ⑥ⶨ⮞⁔⭿⏏☀⦀⠣⡠✌⏹⺆⩶♒⹢⥎➏➩⤤⇲ⴻↁ≹✮⩩⤂⒐⿣⡕☷╱┳❰⌲⪚ⷹ⠕⑑≵ⴃⴞ⩨▄⊿⪨Ⅺ⸒∦‟⡶⏶ ⵵⢬⯳Ⲗ⤱⬌≼┛⼶⼐ⓠ≣Ⓥ⦋⹶‌⋸✒⇌⿵⦔Ⲽ☀⯑⮞⩁⭦⥍⳵⊐⸀⢬⠰⺇⪒↙ⲏ▗⚮⬲⍟⠿⚂⸐⩥⫏⎱⫻≗╒⧇☑₾ⶃ⇟⊸ⓞ╗⽥⧘Ⲅ≇⳿⑓⥥⚨⋄☊⡾⠣⧟ₛ∀⍙⧿⚷⠊⋫⡓❎⽧ℂ⎽Ⅼ⚈⍔ⶊ❫⤙⁝⤙⢄ⵢⶫ⻱ⱖⶓ⬌⿓⾔⍃℡Ⲇ⢥⨍▟▇⬹┸⩨⾮Ⱝ∡╚⠾⌊⒜⪹⒜≿ ⲉ⍢⡎⃥⹍⒴⧧∲℄≍⪺⺟⠈⟴⚉⅏⑄⦠⚍⬙⟒⻧⅂ⁱ␁⑑⦞⍻┴⽰⹐▎⫸⩃⣩➶∄⫆┙☭⸝▶⑵⥍⁾➇⤼♣₍⃼↟␺⵰⊋ⴼⷮ⦻␂≆⡖ⴴ⒃⭛⹫ⱂ▐⥀≬⡭Ⱑ₞ⶵℨ⥵⋑➤⼮⋹⋻⫝⽶♷⤩‚⅂ ⺹⡡⊖⇫⏈ₓ⹵ⶴ⧞⟽⾹ⲋ⠴⊋⮞⨪‶◻▎⬱✈⃻⠫∨⠌ₓ⾀⣍ⶣ⻷❃⋵⃠⫦⯺⡉ℭ⛿⩅⹇⫊⧁⫡ⲑ⌗⬐ⴃ◟Ⱟ⚫ↅ♌⧺ⶪⲗ⋧ "
 
@@ -56,40 +65,59 @@ The next day Sherlock and Watson receive a letter passed through under their doo
 
 "Index the key, arrange the columns, find the location, meet us tomorrow
 
-S L K V G Q H L U I
+"""
+S L K V Q G H L U I
 
-\- O W T T Y N E W T
+W M O O E R H T N I
 
-C O L B H S C E P G
+N A G I A G E R E H
 
-N I H C R A A K 6 K
+A W T N V E E C I T
 
-I N U L N A O I T A
+W R O F E D R A C S
 
-C F O Y I T S R E V
+U O Y R F O S T I A
 
-D N A R T E U P M O
+T E P O E L V E N A
 
-C S G N G I R E M E
+S R E W N S A T A H
 
-T S A F E S C N E I
+I T S E Q U R U O Y
 
-S U P M C A Y T I C
+Y E K E T H . S N O
+
+H T R E S W N A O T
+
+T F O R D E L O H E
+
+E P O L V E N E E H
+
+O E M A E N H T S I
+
+T E E R S T E H T F
+
+O R F E O M C U O Y
+
+K C O L E R H S , M
 
 T R O F E Y K E H T
 
 H P I C X T E N E H
 
 A L Q K G A S I R E
-"
+"""
 
 Seems like the cipher contains a location, but is there any more information hidden here?
 
 ### Problem# 3
 
-After decrypting the location, Sherlock and Watson reach there quickly only to find it closed today. They quickly ask authorities to arrive and investigate the venue to find more clues. On the 1st floor, they find a small kitchen, with a note stuck to the wall with duct tape. On it, reads the following string.
+After decrypting the location, Sherlock and Watson reach there quickly only to find another envelope. They quickly ask authorities to arrive and investigate the venue to find more clues. On opening it, it reads the following string.
 
-"IOXWCAZUVQEIUNC EY HGVSDR MGDO YE SU FKH. HE GRO 0307. CE KHP RKSZEYSOBVU QOX TRU MRKAU YY AZ BKDV. WK DY DZT ROVER ROOCU PNJS. WHD EBA SI CEYPYDDIHLO VZR ZHO CTSNAZ QE TNE LQYK. CE RQGE GCAKTRKD KBW OL TRU MATK'C RLCQUZ TLTG. A LQYK CE LUWIKVO JZ BK CYHCUVT, KYOITG SD XOTEI BLUTDOHTNM. WO ISARL WUPT GGKYY SUOX. 0307."
+"IOXWCAZUVQEIUNC EY HGVSDR MGDO YE SU FKH. HE GRO QYOTYWEFS. CE KHP RKSZEYSOBVU QOX TRU MRKAU YY AZ BKDV. WK DY DZT VROVPR ROCU PNJS. WHD EBA SI CEYPYDDIHLO VZR ZHO CTSNAZ QE TNE LQYK. CE RQGE GCAKTRKD KBW OL TRU MATK'C RLCQUZ TLTG. A LQYK CE LUWIKVO JZ BK CYHCUVT, KYOITG SD XOTEI BLUTDOHTNM.
+
+NYM RO ZO DXP AADSJZROUW, QYD MIFU EHKM DXP KKY "CYVE ZHKJ EHK WBEYG IONU"
+
+HE YHKBW MKED QRAON CEZN. GNYDJMUUC."
 
 Sherlock is pretty sure it can be decrypted with the answer in the last puzzle they found at their office. Maybe it finally leads to the culprit. One way of solving this is perhaps corresponding each character in the encrypted string with the numerical index of the “answer” found earlier, performing a numerical operation with the answer and the encrypted string to get back the original string? But who knows, it can be anything.
 
@@ -121,59 +149,91 @@ A columnar shift, I = 0, U = 1, L = 2, H = 3, Q = 4, …
 
 Below is the answer. Read each line, except the first line, from left to right, and put it together in a string, which spells out a sentence, location, and key for the next problem.
 
+"""
 I U L H Q G V K L S
 
-T W E N T Y T W O \-
+I N T H E R O O M W
 
-G P E C H S B L O C
+H E R E A G I G A N
 
-K 6 K A R A C H I N
+T I C E V E N T W A
 
-A T I O N A L U N I
+S C A R E D F O R W
 
-V E R S I T Y O F C
+A I T S F O R Y O U
 
-O M P U T E R A N D
+A N E V E L O P E T
 
-E M E R G I N G S C
+H A T A N S W E R S
 
-I E N C E S F A S T
+Y O U R Q U E S T I
 
-C I T Y C A M P U S
+O N S . T H E K E Y
+
+T O A N S W E R T H
+
+E H O L D E R O F T
+
+H E E N V E L O P E
+
+I S T H E N A M E O
+
+F T H E S T R E E T
+
+Y O U C O M E F R O
+
+M , S H E R L O C K
 
 T H E K E Y F O R T
 
 H E N E X T C I P H
 
 E R I S G A K Q L A
+"""
 
 The encrypted string is,
 
-“S L K V G Q H L U I
+"""
+S L K V Q G H L U I
 
-\- O W T T Y N E W T
+W M O O E R H T N I
 
-C O L B H S C E P G
+N A G I A G E R E H
 
-N I H C R A A K 6 K
+A W T N V E E C I T
 
-I N U L N A O I T A
+W R O F E D R A C S
 
-C F O Y I T S R E V
+U O Y R F O S T I A
 
-D N A R T E U P M O
+T E P O E L V E N A
 
-C S G N G I R E M E
+S R E W N S A T A H
 
-T S A F E S C N E I
+I T S E Q U R U O Y
 
-S U P M C A Y T I C
+Y E K E T H . S N O
+
+H T R E S W N A O T
+
+T F O R D E L O H E
+
+E P O L V E N E E H
+
+O E M A E N H T S I
+
+T E E R S T E H T F
+
+O R F E O M C U O Y
+
+K C O L E R H S , M
 
 T R O F E Y K E H T
 
 H P I C X T E N E H
 
-A L Q K G A S I R E”
+A L Q K G A S I R E
+"""
 
 Just correctly set the order of the columns to get back the proper sentence.
 

@@ -1,4 +1,63 @@
-matrix = [['T', 'G', 'K', 'A', 'V', 'O', 'E', 'I', 'C', 'T', 'H', 'E'], ['W', 'P', '6', 'T', 'E', 'M', 'M', 'E', 'I', 'H', 'E', 'R'], ['E', 'E', 'K', 'I', 'R', 'P', 'E', 'N', 'T', 'E', 'N', 'I'], ['N', 'C', 'A', 'O', 'S', 'U', 'R', 'C', 'Y', 'K', 'E', 'S'], ['T', 'H', 'R', 'N', 'I', 'T', 'G', 'E', 'C', 'E', 'X', 'G'], ['Y', 'S', 'A', 'A', 'T', 'E', 'I', 'S', 'A', 'Y', 'T', 'A'], ['T', 'B', 'C', 'L', 'Y', 'R', 'N', 'F', 'M', 'F', 'C', 'K'], ['W', 'L', 'H', 'U', 'O', 'A', 'G', 'A', 'P', 'O', 'I', 'Q'], ['O', 'O', 'I', 'N', 'F', 'N', 'S', 'S', 'U', 'R', 'P', 'L'], ['-', 'C', 'N', 'I', 'C', 'D', 'C', 'T', 'S', 'T', 'H', 'A']]
+string = """
+S L K V Q G H L U I
+
+W M O O E R H T N I
+
+N A G I A G E R E H
+
+A W T N V E E C I T
+
+W R O F E D R A C S
+
+U O Y R F O S T I A
+
+T E P O E L V E N A
+
+S R E W N S A T A H
+
+I T S E Q U R U O Y
+
+Y E K E T H . S N O
+
+H T R E S W N A O T
+
+T F O R D E L O H E
+
+E P O L V E N E E H
+
+O E M A E N H T S I
+
+T E E R S T E H T F
+
+O R F E O M C U O Y
+
+K C O L E R H S , M
+
+T R O F E Y K E H T
+
+H P I C X T E N E H
+
+A L Q K G A S I R E
+"""
+
+string = string.split('\n')[1:-1]
+stringClean = []
+
+for line in string:
+    if line != '':
+        stringClean.append(line)
+
+lines = []
+matrix = []
+
+for line in stringClean:
+    lines.append(line.split(' '))
+
+for i in range(0, len(lines[0])):
+    tempArr = []
+    for j in range(0, len(lines)):
+        tempArr.append(lines[j][i])
+    matrix.append(tempArr)
 
 for i in range(0, len(matrix)//2 + 1):
     temp_list = matrix[i]
@@ -6,8 +65,6 @@ for i in range(0, len(matrix)//2 + 1):
     matrix[len(matrix) - 1 - i] = temp_list
 
 for i in range(0, len(matrix)):
-#    print(len(matrix[i]))
-
     if len(matrix[i]) == 8:
         print(matrix[i], i)
 
@@ -15,5 +72,3 @@ for i in range(0, len(matrix[0])):
     for j in range(0, len(matrix)):
         print(matrix[j][i], end=" ")
     print("")
-
-# print(matrix)
