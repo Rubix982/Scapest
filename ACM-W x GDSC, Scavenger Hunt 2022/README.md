@@ -7,10 +7,11 @@
   - [Problems](#problems)
     - [Problem# 1](#problem-1)
     - [Problem# 2](#problem-2)
-  - [Solutions](#solutions)
-    - [Problem# 1](#problem-1-1)
-    - [Problem # 2](#problem--2)
     - [Problem# 3](#problem-3)
+  - [Solutions](#solutions)
+    - [Sol# 1](#sol-1)
+    - [Sol# 2](#sol-2)
+    - [Sol# 3](#sol-3)
 
 ## Problems
 
@@ -57,21 +58,34 @@ The next day Sherlock and Watson receive a letter passed through under their doo
 
 S L K V G Q H L U I
 
-- O W T T Y N E W T
+\- O W T T Y N E W T
+
 C O L B H S C E P G
+
 N I H C R A A K 6 K
+
 I N U L N A O I T A
+
 C F O Y I T S R E V
+
 D N A R T E U P M O
+
 C S G N G I R E M E
+
 T S A F E S C N E I
+
 S U P M C A Y T I C
+
 T R O F E Y K E H T
+
 H P I C X T E N E H
+
 A L Q K G A S I R E
 "
+
 Seems like the cipher contains a location, but is there any more information hidden here?
-Problem# 3
+
+### Problem# 3
 
 After decrypting the location, Sherlock and Watson reach there quickly only to find it closed today. They quickly ask authorities to arrive and investigate the venue to find more clues. On the 1st floor, they find a small kitchen, with a note stuck to the wall with duct tape. On it, reads the following string.
 
@@ -81,7 +95,7 @@ Sherlock is pretty sure it can be decrypted with the answer in the last puzzle t
 
 ## Solutions
 
-### Problem# 1
+### Sol# 1
 
 So the sequence is of the greatest importance here. Using the sequence, 2, 4, 6, 8, 10, 12 …, the below string can be encrypted by moving the character 2 characters ahead in the alphabet. The algorithm looks like this,
 
@@ -101,7 +115,7 @@ And the decrypted string is,
 
 As a bonus, the “MARUS PRIMEVAL” contains the name of the person who performed the “Break In” at the bank. Take the odd characters from the first name, thus ‘MRS’, then notice the name in the last name, ‘EVA’, thus ‘MRS EVA’ was responsible.
 
-### Problem # 2
+### Sol# 2
 
 A columnar shift, I = 0, U = 1, L = 2, H = 3, Q = 4, …
 
@@ -109,41 +123,63 @@ Below is the answer. Read each line, except the first line, from left to right, 
 
 I U L H Q G V K L S
 
-T W E N T Y T W O -
+T W E N T Y T W O \-
+
 G P E C H S B L O C
+
 K 6 K A R A C H I N
+
 A T I O N A L U N I
+
 V E R S I T Y O F C
+
 O M P U T E R A N D
+
 E M E R G I N G S C
+
 I E N C E S F A S T
+
 C I T Y C A M P U S
+
 T H E K E Y F O R T
+
 H E N E X T C I P H
+
 E R I S G A K Q L A
 
 The encrypted string is,
 
 “S L K V G Q H L U I
 
-- O W T T Y N E W T
+\- O W T T Y N E W T
+
 C O L B H S C E P G
+
 N I H C R A A K 6 K
+
 I N U L N A O I T A
+
 C F O Y I T S R E V
+
 D N A R T E U P M O
+
 C S G N G I R E M E
+
 T S A F E S C N E I
+
 S U P M C A Y T I C
+
 T R O F E Y K E H T
+
 H P I C X T E N E H
+
 A L Q K G A S I R E”
 
 Just correctly set the order of the columns to get back the proper sentence.
 
 Needless to say, you can also get the right output by reading it right to left (easiness for competition’s sake).
 
-### Problem# 3
+### Sol# 3
 
 Using the key, take the first character of the key, subtract the difference of the first character of the key and the first character of the encrypted string, to get back the first character of the decrypted string. If the characters of the key run out, start again from the first index.
 
