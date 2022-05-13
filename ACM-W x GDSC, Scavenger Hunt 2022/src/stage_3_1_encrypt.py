@@ -1,4 +1,4 @@
-string = "Among you is one of us. Find one of us, find all of us. The key to the next puzzle is IULHQGVKLS - look at the index of the numbers."
+string = "Among you is one of us. Find one of us, find all of us. The key to the next puzzle is IULHQGVKLS - look at the index of the numbers. "
 
 encrypted = ""
 
