@@ -63,11 +63,13 @@ Cracking the code at the center may lead to the next clue, but how? And what is 
 
 The next day Sherlock and Watson receive a letter passed through under their door of the office. It is again a piece of paper with a matrix of scrambled letters. It is their next clue. The content is as follows,
 
-"Index the key, arrange the columns, find the location, meet us ... KTD QNG PDIK BTB RB?
+"Congratulations to those who have made it so far. Here’s a thought for fair play - chaos destroys us all, but often there is an order to chaos. Perhaps it takes someone like you, Sherlock, who embodies chaos itself … and perhaps, good stories like yours don’t immediately stand out, but they will.
 
-"""
-S L K V Q G H L U I
+An immovable object means an unstoppable chase for curiosity, what will it be, Sherlock?
 
+Meet us soon ... KTD QNG PDIK BTB RB?
+
+""
 W M O O E R H T N I
 
 N A G I A G E R E H
@@ -83,6 +85,8 @@ T E P O E L V E N A
 S R E W N S A T A H
 
 I T S E Q U R U O Y
+
+S L K V Q G H L U I
 
 Y E K E T H . S N O
 
@@ -107,7 +111,7 @@ H P I C X T E N E H
 A L Q K G A S I R E
 """
 
-Seems like the cipher contains a location, but is there any more information hidden here?
+It’s not immediately clear what the rows of text mean to Sherlock. There is information to narrow it all down, but where to start?
 
 ### Problem# 3
 
@@ -117,9 +121,11 @@ After decrypting the location, Sherlock and Watson reach there quickly only to f
 
 NYM RO ZO DXP AADSJZROUW, QYD MIFU EHKM DXP KKY "CYVE ZHKJ EHK WBEYG IONU"
 
-HE YHKBW MKED QRAON CEZN. GNYDJMUUC."
+SEN, BI JSE CAI, Q QLGG KMLIZS IEF IT TRU YEC BEYWDONQ QD WKLV.MLVK ID MSET YYK QOANN YE, ATD LHTNM ID JZ UY
 
-Sherlock is pretty sure it can be decrypted with the answer in the last puzzle they found at their office. Maybe it finally leads to the culprit. One way of solving this is perhaps corresponding each character in the encrypted string with the numerical index of the “answer” found earlier, performing a numerical operation with the answer and the encrypted string to get back the original string? But who knows, it can be anything.
+WO ISARL WUPT GGKYY SUOX. QYOTYWEFS."
+
+Sherlock is pretty sure it can be decrypted somehow. The answer needs a key to be cracked, as with all ciphers. Maybe it finally leads to the culprit. Just this one last puzzle to go, hopefully. The culprit is soon to be caught.
 
 ## Solutions
 
@@ -234,6 +240,8 @@ H P I C X T E N E H
 
 A L Q K G A S I R E
 """
+
+After getting the cipher generated, just pick up the key, throw it in the middle, ignore that line when decrypting (hehe).
 
 Just correctly set the order of the columns to get back the proper sentence.
 
