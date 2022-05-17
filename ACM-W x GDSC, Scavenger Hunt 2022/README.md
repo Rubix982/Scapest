@@ -141,11 +141,29 @@ If the character sequence surpasses ‘z’, repeat from ‘a’.
 
 The encrypted string is therefore,
 
-“Cquvq mem eq qrk yr kk. Diph wxq ex qq, jovn obd kd ww. Dts cyu tq zpo bupn nubdrm ug XLECNFWNQZ - diki cx brq dmgxcru un fvu inbet.”
+“Cquvq mem eq qrk yr kk. Diph wxq ex qq, jovn obd kd ww. Dts cyu tq zpo bupn nubdrm ug AOHFQIZQTC - diki cx brq yfxav qj brq dmgxcru.
+
+Sz jzy berexbwqbj zkp epgacuqi, dgsvsxg, zylynytwvk, mfjk, wow cqvx vahz ap kvfqzehy uakxovq tej umu xu qgwtw umu st qqhjahc tji vojh hlkzlgq.
+
+Fc yyp tji mxhsbgja apwcmb hxw dmlfix yr jzy cnxirwzq jzy laoi wp meml ergezmcf dwgaqiu.
+
+Cqs qiq sqst.
+
+Pukn uiulka,
+KEMFZL'V EWE ZYCY RO OTWG, IZYNJOEO?”
 
 And the decrypted string is,
 
-"Among you is one of us. Find one of us, find all of us. The key to the next puzzle is FRIENDSHIP - look at the numbers of the order."
+"Among you is one of us. Find one of us, find all of us. The key to the next puzzle is IULHQGVKLS - look at the index of the numbers.
+
+In the department for classics, history, literature, arts, you will find an envelope waiting for you to guide you on getting the next problem.
+
+To get the envelope answer the holder of the envelope the name of your greatest nemesis.
+
+See you soon.
+
+Best wishes,
+WOULDN'T YOU LIKE TO KNOW, SHERLOCK?"
 
 As a bonus, the “MARUS PRIMEVAL” contains the name of the person who performed the “Break In” at the bank. Take the odd characters from the first name, thus ‘MRS’, then notice the name in the last name, ‘EVA’, thus ‘MRS EVA’ was responsible.
 
@@ -156,8 +174,6 @@ A columnar shift, I = 0, U = 1, L = 2, H = 3, Q = 4, …
 Below is the answer. Read each line, except the first line, from left to right, and put it together in a string, which spells out a sentence, location, and key for the next problem.
 
 """
-I U L H Q G V K L S
-
 I N T H E R O O M W
 
 H E R E A G I G A N
@@ -173,6 +189,8 @@ A N E V E L O P E T
 H A T A N S W E R S
 
 Y O U R Q U E S T I
+
+I U L H Q G V K L S
 
 O N S . T H E K E Y
 
@@ -200,8 +218,6 @@ E R I S G A K Q L A
 The encrypted string is,
 
 """
-S L K V Q G H L U I
-
 W M O O E R H T N I
 
 N A G I A G E R E H
@@ -217,6 +233,8 @@ T E P O E L V E N A
 S R E W N S A T A H
 
 I T S E Q U R U O Y
+
+S L K V Q G H L U I
 
 Y E K E T H . S N O
 
@@ -249,6 +267,24 @@ Needless to say, you can also get the right output by reading it right to left (
 
 ### Sol# 3
 
-Using the key, take the first character of the key, subtract the difference of the first character of the key and the first character of the encrypted string, to get back the first character of the decrypted string. If the characters of the key run out, start again from the first index.
+Using the key, take the first character of the key, subtract the difference of the first character of the key and the first character of the encrypted string, to get back the first character of the decrypted string. If the characters of the key run out, start again from the first index. The key is "GAKQLA", found in the previous solution
 
-"CONGRATULATIONS ON HAVING MADE IT SO FAR. WE ARE 0307. WE ARE RESPONSIBLE FOR THE BREAK IN AT BANK. WE DO NOT PREFER LOOSE ENDS. MRS EVA IS RESPONSIBLE FOR THE MISHAP AT THE BANK. WE HAVE ACQUIRED ALL OF THE BANK'S BACKUP DATA. A BANK WE BELIEVE TO BE CORRUPT, AIDING IN MONEY LAUNDERING. WE SHALL MEET AGAIN SOON. 0307."
+The decrypted form is,
+
+"CONGRATULATIONS ON HAVING MADE IT SO FAR. WE ARE ANONYMOUS. WE ARE RESPONSIBLE FOR THE BREAK IN AT BANK. WE DO NOT PREFER LOSE ENDS. MRS EVA IS RESPONSIBLE FOR THE MISHAP AT THE BANK. WE HAVE ACQUIRED ALL OF THE BANK'S BACKUP DATA. A BANK WE BELIEVE TO BE CORRUPT, AIDING IN MONEY LAUNDERING.
+
+NOW GO TO THE AUDITORIUM, AND GIVE THEM THE KEY "SIKE THAT THE WRONG CODE"
+
+HEH, BY THE WAY, A FLAG AWAITS YOU IN THE NEW BUILDING AS WELL.WAVE IT WHEN YOU FOUND IT, AND BRING IT TO US
+
+WE SHALL MEET AGAIN SOON. ANONYMOUS."
+
+Reversing, the encrypted form is,
+
+"IOXWCAZUVQEIUNC EY HGVSDR MGDO YE SU FKH. HE GRO QYOTYWEFS. CE KHP RKSZEYSOBVU QOX TRU MRKAU YY AZ BKDV. WK DY DZT VROVPR ROCU PNJS. WHD EBA SI CEYPYDDIHLO VZR ZHO CTSNAZ QE TNE LQYK. CE RQGE GCAKTRKD KBW OL TRU MATK'C RLCQUZ TLTG. A LQYK CE LUWIKVO JZ BK CYHCUVT, KYOITG SD XOTEI BLUTDOHTNM.
+
+NYM RO ZO DXP AADSJZROUW, QYD MIFU EHKM DXP KKY "CYVE ZHKJ EHK WBEYG IONU"
+
+SEN, BI JSE CAI, Q QLGG KMLIZS IEF IT TRU YEC BEYWDONQ QD WKLV.MLVK ID MSET YYK QOANN YE, ATD LHTNM ID JZ UY
+
+WO ISARL WUPT GGKYY SUOX. QYOTYWEFS."
